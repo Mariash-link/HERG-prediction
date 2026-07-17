@@ -2,7 +2,7 @@
 # HERG-prediction
 
 Predicting HERG channel blockade using machine learning methods
-**Ниже Вы можете ознакомиться с переводом на русский
+**Ниже Вы можете ознакомиться с переводом на русский.
 
 ## Project Description
 
